@@ -1,8 +1,9 @@
-# This repo is now read-only
-You can fork this project to continue the development of RuneBook. The original author no longer maintains the app.
+# Runebook
+Changes to be released soon
 
 # Acknowledgements
 Thanks to...
+- [@OrangeNote](https://github.com/OrangeNote) for creating the original app up to v1.8.11
 - [@Fumi24](https://github.com/Fumi24) for being the source of inspiration for RuneBook, and for letting me know how to programmatically interact with the League API  
 - [@Pupix](https://github.com/Pupix), because RuneBook wouldn't exist without his tools  
 - @optizard for being my devoted tester  
